@@ -1,2 +1,2 @@
 # SparkLearning
-Spark - The Definitive Guide Learning Note
+Spark - The Definitive Guide Learning Notes
