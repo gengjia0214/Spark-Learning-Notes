@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+book_data/
 .idea/
 __pycache__/
 *.py[cod]
